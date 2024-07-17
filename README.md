@@ -1,5 +1,7 @@
-- 👋 Olá!
-- Seja bem vindo ao meu repositório de projetos 🗳
+# Ola!👋
+
+Seja bem vindo ao meu repositório de projetos🚀
+
 
 <!---
 - 🌱 I’m currently learning ...
